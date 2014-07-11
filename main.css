@@ -1,0 +1,18 @@
+.title{
+	height: 200px;
+	background-color: rgb(183, 57, 57);
+}
+
+
+.starRating > span:hover:openStar {
+position: absolute;
+}
+
+/*img{
+	width: 25px;
+}*/
+
+.subtract-response{
+	margin-top: 21px;
+	border-style: solid;
+}
